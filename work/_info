@@ -1,0 +1,104 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vfifo
+Z0 !s110 1699234353
+!i10b 1
+!s100 jOa6O1;@lod4j=:J`6?Bm1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IliZb67aFWmZzO5:b1345m3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/dvire/OneDrive/Desktop/modelsim_projects/qpsk_project
+w1699231335
+8C:/Users/dvire/OneDrive/Desktop/modelsim_projects/qpsk_project/fifo/fifo.v
+FC:/Users/dvire/OneDrive/Desktop/modelsim_projects/qpsk_project/fifo/fifo.v
+!i122 269
+L0 8 60
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1699234353.000000
+!s107 C:/Users/dvire/OneDrive/Desktop/modelsim_projects/qpsk_project/fifo/fifo.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/dvire/OneDrive/Desktop/modelsim_projects/qpsk_project/fifo/fifo.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vfull_design
+R0
+!i10b 1
+!s100 4_YSe`O?8Z[>[7VPB3Iaf3
+R1
+IkE]hA^HHMTZR>ORCJbYHg3
+R2
+R3
+w1699231621
+8C:/Users/dvire/OneDrive/Desktop/modelsim_projects/qpsk_project/full_design.v
+FC:/Users/dvire/OneDrive/Desktop/modelsim_projects/qpsk_project/full_design.v
+!i122 271
+L0 7 37
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/dvire/OneDrive/Desktop/modelsim_projects/qpsk_project/full_design.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/dvire/OneDrive/Desktop/modelsim_projects/qpsk_project/full_design.v|
+!i113 1
+R6
+R7
+vqpsk
+R0
+!i10b 1
+!s100 [ogc9L3NjcGIi@R?ChjZ:1
+R1
+I0OK_nNM1@_Go[cNbUNa>S2
+R2
+R3
+w1699230679
+8C:/Users/dvire/OneDrive/Desktop/modelsim_projects/qpsk_project/qpsk/qpsk.v
+FC:/Users/dvire/OneDrive/Desktop/modelsim_projects/qpsk_project/qpsk/qpsk.v
+!i122 267
+L0 8 55
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/dvire/OneDrive/Desktop/modelsim_projects/qpsk_project/qpsk/qpsk.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/dvire/OneDrive/Desktop/modelsim_projects/qpsk_project/qpsk/qpsk.v|
+!i113 1
+R6
+R7
+vtb
+R0
+!i10b 1
+!s100 IeAOMN721GWB1YjfSV8343
+R1
+IEEBHR7BE;?]335FoJ;2H90
+R2
+R3
+w1699232679
+8C:/Users/dvire/OneDrive/Desktop/modelsim_projects/qpsk_project/tb.v
+FC:/Users/dvire/OneDrive/Desktop/modelsim_projects/qpsk_project/tb.v
+F./qpsk/qspk_rx_tb_msgs.vh
+!i122 272
+L0 9 315
+R4
+r1
+!s85 0
+31
+R5
+!s107 ./qpsk/qspk_rx_tb_msgs.vh|C:/Users/dvire/OneDrive/Desktop/modelsim_projects/qpsk_project/tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/dvire/OneDrive/Desktop/modelsim_projects/qpsk_project/tb.v|
+!i113 1
+R6
+R7
