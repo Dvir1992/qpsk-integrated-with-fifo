@@ -1,0 +1,38 @@
+Sun Oct 29 14:23:59 CDT 2023
+Trace back: can't read "ProjectFiles(C:\Users\dvire\OneDrive\Desktop\modelsim_projects\qpsk_project\qpsk\qspk_rx_tb_msgs.v)": no such element in array
+    while executing
+"llookup $ProjectFiles($name) group_id"
+    (procedure "Project::getItemsAtLevel" line 22)
+    invoked from within
+"Project::getItemsAtLevel $foldername"
+    (procedure "Project::getFolderContents" line 7)
+    invoked from within
+"Project::getFolderContents $item"
+    (procedure "Project::updateProjectView" line 24)
+    invoked from within
+"Project::updateProjectView"
+    (procedure "Project::testForOutofDateTimer" line 14)
+    invoked from within
+"Project::testForOutofDateTimer"
+    ("after" script)
+  <2:C:/intelFPGA/20.1/modelsim_ase/win32aloem/tk8.6/bgerror.tcl:106: ::tkerror {can't read "ProjectFiles(C:\Users\dvire\OneDrive\Desktop\modelsim_projects\qpsk_project\qpsk\qspk_rx_tb_msgs.v)": no such element in array}
+  <1:eval:1: ::tk::dialog::error::bgerror {can't read "ProjectFiles(C:\Users\dvire\OneDrive\Desktop\modelsim_projects\qpsk_project\qpsk\qspk_rx_tb_msgs.v)": no such element in array}
+Tue Oct 31 18:28:56 PDT 2023
+Trace back: can't read "ProjectFiles(C:\Users\dvire\OneDrive\Desktop\modelsim_projects\qpsk_project\tb.v)": no such element in array
+    while executing
+"llookup $ProjectFiles($name) group_id"
+    (procedure "Project::getItemsAtLevel" line 22)
+    invoked from within
+"Project::getItemsAtLevel $foldername"
+    (procedure "Project::getFolderContents" line 7)
+    invoked from within
+"Project::getFolderContents $item"
+    (procedure "Project::updateProjectView" line 24)
+    invoked from within
+"Project::updateProjectView"
+    (procedure "Project::testForOutofDateTimer" line 14)
+    invoked from within
+"Project::testForOutofDateTimer"
+    ("after" script)
+  <2:C:/intelFPGA/20.1/modelsim_ase/win32aloem/tk8.6/bgerror.tcl:106: ::tkerror {can't read "ProjectFiles(C:\Users\dvire\OneDrive\Desktop\modelsim_projects\qpsk_project\tb.v)": no such element in array}
+  <1:eval:1: ::tk::dialog::error::bgerror {can't read "ProjectFiles(C:\Users\dvire\OneDrive\Desktop\modelsim_projects\qpsk_project\tb.v)": no such element in array}
